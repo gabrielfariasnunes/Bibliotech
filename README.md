@@ -12,7 +12,7 @@ Projetos de Engenharia 1
 
 #### Lógica
 
-- [ ] Integração com o Google Firebase
+- [x] Integração com o Google Firebase
 - [ ] Autenticação e Registro
 - [ ] Fórum
 - [ ] Banco de Dados Android SQlite
