@@ -22,13 +22,13 @@
 - [ ] Tela de Configurações
 - [ ] Tela de Downloads
 - [x] Tela de Biblioteca
-- [ ] Tele de Forúm
-- [ ] Tela de visualizações de Documentos
+- [ ] Tela de Forúm
+- [x] Tela de visualizações de Documentos
 
 ### Lógica
 
 - [x] Integração com a API
-- [ ] Visualizar documentos PDF
+- [x] Visualizar documentos PDF
 - [ ] Integração com o Google Firebase
 - [ ] Autenticação e Registro
 - [ ] Fórum
