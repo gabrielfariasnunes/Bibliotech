@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorSecondaryContainer">#2196F3</item>
+        <item name="colorPrimary">#2196F3</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryDark">#2196F3</item>
+        <item name="colorSecondary">#2196F3</item>
+        <item name="colorPrimaryContainer">#2196F3</item>
+        <item name="colorOnPrimaryContainer">#FFFFFF</item>
+        <item name="colorOnSecondaryContainer">@color/white</item>
+    </style>
+
+    <style name="textInputTheme" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+        <item name="hintTextColor">#FFFFFF</item>
+        <item name="boxStrokeColor">#FFFFFF</item>
+        <item name="colorPrimaryContainer">#FFFFFF</item>
+    </style>
+
+    <style name="cardViewTheme" parent="Widget.MaterialComponents.CardView">
+        <item name="strokeWidth">1dp</item>
+    </style>
+
+</resources>

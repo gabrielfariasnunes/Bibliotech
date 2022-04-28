@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+    <item  
+		android:icon="@drawable/ic_download" 
+		android:title="Baixar"/>
+		
+    <item 
+		android:icon="@drawable/ic_share" 
+		android:title="Compartilhar"/>
+		
+</menu>

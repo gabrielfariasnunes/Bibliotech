@@ -1,0 +1,23 @@
+[
+	{
+		"artifactId": "appcompat",
+		"excludes": [],
+		"groupId": "androidx.appcompat",
+		"scope": "compile",
+		"versionName": "1.3.0"
+	},
+	{
+		"artifactId": "material",
+		"excludes": [],
+		"groupId": "com.google.android.material",
+		"scope": "compile",
+		"versionName": "1.5.0"
+	},
+	{
+		"artifactId": "android-pdf-viewer",
+		"excludes": [],
+		"groupId": "com.github.barteksc",
+		"scope": "compile",
+		"versionName": "2.8.2"
+	}
+]
